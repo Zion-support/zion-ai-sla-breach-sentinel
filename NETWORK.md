@@ -1,10 +1,16 @@
-# Zion AI SLA Breach Sentinel
+# 🌐 Part of the Zion App Network
 
-SLA monitoring, breach early-warning and escalation.
+**Zion AI SLA Breach Sentinel** is one of 533+ interconnected apps in the Zion Tech Group network.
 
-## Network
-- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
-- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-tools](https://github.com/Zion-support/zion-tools)
-- Related: [agent-sla-monitor](https://github.com/Zion-support/agent-sla-monitor) · [slo-calculator](https://github.com/Zion-support/slo-calculator) · [zion-sla-cost-calculator](https://github.com/Zion-support/zion-sla-cost-calculator) · [zion-ai-status-comms](https://github.com/Zion-support/zion-ai-status-comms) · [energy-sla-reporter](https://github.com/Zion-support/energy-sla-reporter)
+- 🏠 [ziontechgroup.com](https://ziontechgroup.com)
+- 🗂️ [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
+- 📚 [Master Catalog](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
+- 📊 [Status](https://zion-support.github.io/zion-status/) · 💳 [Plans](https://zion-support.github.io/plans/) · 🧭 [Portal](https://zion-support.github.io/zion-portal/)
+- 📣 [App Network Showcase](https://ziontechgroup.com/app-network/)
+
+## Related apps
+- [Agent SLA Monitor](https://github.com/Zion-support/agent-sla-monitor)
+- [SLO Calculator](https://github.com/Zion-support/slo-calculator)
+- [Zion AI Status Comms](https://github.com/Zion-support/zion-ai-status-comms)
 
 *Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
